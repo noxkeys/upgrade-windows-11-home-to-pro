@@ -126,7 +126,7 @@ Use this if you want to switch to Pro first and activate later, or if your Pro k
 4. Go back to **Settings → System → Activation → Change product key**
 5. Enter your **genuine Windows 11 Pro key** to activate
 
-> **Note:** the generic key only changes the edition. Windows stays **not activated** until you enter a genuine Pro key. More generic keys are listed in [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys).
+> **Note:** the generic key only changes the edition. Windows stays **not activated** until you enter a genuine Pro key. More generic keys are listed in [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys).
 
 ---
 
@@ -179,7 +179,7 @@ slmgr /xpr
 | `0xC004F074`: no KMS server could be contacted              | A KMS key was used. Replace it with a retail Pro key                   |
 | Upgrade stuck at a percentage                               | Wait at least 30 minutes, then restart and try again                   |
 
-More error codes and fixes: [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors).
+More error codes and fixes: [Windows 11 & 10 Activation Errors and Fixes](https://github.com/noxkeys/windows-11-10-activation-errors).
 
 ---
 
@@ -229,11 +229,11 @@ Windows 10 reached end of support on October 14, 2025. Upgrading to **Windows 11
 
 More free references maintained by [Noxkeys](https://noxkeys.com/):
 
-- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
-- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
-- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/webex9/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
-- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors): Windows activation error codes explained
-- [Microsoft Office Activation Errors and Fixes](https://github.com/webex9/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
+- [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/noxkeys/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
+- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/noxkeys/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/noxkeys/windows-11-10-activation-errors): Windows activation error codes explained
+- [Microsoft Office Activation Errors and Fixes](https://github.com/noxkeys/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
 
 ---
 
@@ -241,10 +241,10 @@ More free references maintained by [Noxkeys](https://noxkeys.com/):
 
 - [Microsoft Support – Upgrade Windows Home to Windows Pro](https://support.microsoft.com/en-us/windows/upgrade-windows-home-to-windows-pro-ef34d520-e73f-3198-c525-d1a218cc2818)
 - [Microsoft – Compare Windows 11 Home and Pro](https://www.microsoft.com/en-us/windows/compare-windows-11-home-vs-pro-versions)
-- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys) – generic and KMS keys for every edition
-- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors) – error codes explained
-- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys)
-- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/webex9/windows-server-2025-2022-2019-product-keys)
+- [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys) – generic and KMS keys for every edition
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/noxkeys/windows-11-10-activation-errors) – error codes explained
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/noxkeys/microsoft-office-2024-2021-2019-product-keys)
+- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/noxkeys/windows-server-2025-2022-2019-product-keys)
 - [Noxkeys – Genuine Windows 11 Pro keys](https://noxkeys.com/)
 
 ---
