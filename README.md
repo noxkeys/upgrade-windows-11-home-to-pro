@@ -20,6 +20,7 @@ Maintained by [Noxkeys](https://noxkeys.com/), an online store for genuine softw
 - [Troubleshooting](#troubleshooting)
 - [Where to get a Windows 11 Pro key](#where-to-get-a-windows-11-pro-key)
 - [FAQ](#faq)
+- [Related guides](#related-guides)
 - [References](#references)
 
 ---
@@ -221,6 +222,18 @@ No. Pro adds features but doesn't change performance.
 
 **Is Windows 10 Home to Pro still worth it?**
 Windows 10 reached end of support on October 14, 2025. Upgrading to **Windows 11 Pro** is the better choice if your PC supports it.
+
+---
+
+## Related guides
+
+More free references maintained by [Noxkeys](https://noxkeys.com/):
+
+- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
+- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/webex9/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors): Windows activation error codes explained
+- [Microsoft Office Activation Errors and Fixes](https://github.com/webex9/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
 
 ---
 
